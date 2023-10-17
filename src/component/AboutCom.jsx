@@ -138,9 +138,9 @@ Ashutosh Mohapatra</h1>
       <div className="col-lg-4 mb-4">
         {/* Row */}
         <div className="row gap-20">
-          <div className="col-8 col-md-10 pro-pic mx-auto">
+          <div className="col-8 col-md-10 pro-pic mx-auto p-12">
             <img
-              src="img/user6.png"
+              src="img/amit.jpg"
               alt="wrapkit"
               className="img-fluid rounded-circle"
             />
@@ -241,7 +241,7 @@ Ashutosh Mohapatra</h1>
             <div className="pt-2">
           
               <h5 className="mt-4 font-weight-bold mb-0 text-dark">Sudheesh Asthana</h5>
-              <h6 className="mb-3 mt-1 text-primary">Regional Manager Sales & Operations - ZBH South India</h6>
+              <h6 className="mb-3 mt-1 text-primary">National Sales Director</h6>
               <p>
               A 30-year veteran in Indian Logistics. Postgraduate M.A. and Sales & Marketing Graduate. Led as National Head (Transportation), Regional Sales/Operations Manager & Sales Head at Gati Ltd., Future Supply Chains, V Trans India, Patanjali Parivahan Pvt Ltd, and V Xpress.
               </p>

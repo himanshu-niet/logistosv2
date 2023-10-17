@@ -9,6 +9,7 @@ import Preloader from "../component/PreLoader";
 import { useEffect, useState } from "react";
 import Why from "../component/Why";
 import Cards from "./Cards";
+import Galary from "../component/Galary";
 
 const Index = () => {
 
@@ -33,9 +34,12 @@ const Index = () => {
           <div className="container py-5">
           <div className="row">
           <div className="col-12 col-md-6 col-lg-7">
-           <h1 className="text-primary mb-4">Bulk Shipments &amp; Small Size Shipments</h1>
-            <h1 className="text-white display-3 mb-5 text-uppercase">Logistos</h1>
-            <div className="mx-auto" style={{ width: "100%", maxWidth: 600 }}>
+           
+            <h2 className="text-white display-3 mb-4 text-uppercase">Logistos</h2>
+            <h3 className="text-primary ">Bulk Shipments &amp; Small Size Shipments</h3>
+          
+
+            <div className="" style={{ width: "100%", maxWidth: 600 ,paddingTop:'20px'}}>
               <div className="input-group">
                 <input
                   type="text"
@@ -48,7 +52,10 @@ const Index = () => {
                 </div>
               </div>
             </div>
-           </div>
+
+            <Galary/>
+           
+            </div>
            <div className="col-12 col-md-6 col-lg-5">
            <div className="booking-form">
   <form>

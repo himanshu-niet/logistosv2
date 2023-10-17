@@ -13,24 +13,6 @@ import AdminLogin from "./pages/AdminLogin";
 
 function App() {
 
-  const [status,setStatus]=useState(true);
-
-
-  useEffect(()=>{
-getStatus();
-  },[])
-
-  const getStatus=async()=>{
-    const data= await fetch("https://logistos.phfngo.org.in/");
-    
-    const res= await data.json();
-    setStatus(res);
-  }
-  
-
-  if(!status){
-   return <ErrorPage/>
-  }
 
   return (
     <>

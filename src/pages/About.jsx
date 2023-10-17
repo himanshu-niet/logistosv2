@@ -8,11 +8,6 @@ const About=()=>{
         <>
         <Header active={2}/>
 
-
-  {/* Header Start */}
- 
-  {/* Header End */}
-  {/* About Start */}
 <AboutCom/>
 
  
