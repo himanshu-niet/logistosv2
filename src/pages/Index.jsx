@@ -12,8 +12,6 @@ import Cards from "./Cards";
 import Galary from "../component/Galary";
 
 const Index = () => {
-
-
   const [loading, setLoading] = useState(false);
   useEffect(() => {
     setLoading(true);
