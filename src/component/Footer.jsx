@@ -58,13 +58,13 @@ const Footer=()=>{
             <svg className="icon_footer" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <path fill="#daa520" d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24c1.12.37 2.33.57 3.57.57c.55 0 1 .45 1 1V20c0 .55-.45 1-1 1c-9.39 0-17-7.61-17-17c0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1c0 1.25.2 2.45.57 3.57c.11.35.03.74-.25 1.02l-2.2 2.2z"/>
 </svg>
-              95600-99686 / 73501-44999
+              70905-00400 / 98447-79911
             </p>
             <p>
             <svg className="icon_footer" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <path fill="#daa520" d="M4 20q-.825 0-1.413-.588T2 18V6q0-.825.588-1.413T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.588 1.413T20 20H4Zm8-7l8-5V6l-8 5l-8-5v2l8 5Z"/>
 </svg>
-              customer.support@logistos.in
+support@logistos.com
             </p>
             
           </div>
@@ -83,7 +83,7 @@ const Footer=()=>{
         <p className="m-0 text-white">
           © <a href="https://logistos.in/">Logistos Pvt. Ltd.</a> All Rights Reserved.
           {/*/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. *** /*/}
-          &nbsp; Designed by <a href="https://cybronical.com/"> Cybronical India Pvt. Ltd.</a>
+          &nbsp; Designed by <a href="https://cybronical.com/"> Cybronical India.</a>
         </p>
       </div>
       {/* <div className="col-lg-6 text-center text-md-right">

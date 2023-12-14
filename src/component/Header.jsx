@@ -22,11 +22,11 @@ const Header = ({ active }) => {
                         <div className="d-inline-flex align-items-center text-white">
                             <small> <svg className="icon_footer" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path fill="#ffffff" d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24c1.12.37 2.33.57 3.57.57c.55 0 1 .45 1 1V20c0 .55-.45 1-1 1c-9.39 0-17-7.61-17-17c0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1c0 1.25.2 2.45.57 3.57c.11.35.03.74-.25 1.02l-2.2 2.2z" />
-                            </svg>+91 9560099686</small>
+                            </svg>+91 7090500400 / 9844779911</small>
                             <small className="px-3">|</small>
                             <small>  <svg className="icon_footer" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path fill="#ffffff" d="M4 20q-.825 0-1.413-.588T2 18V6q0-.825.588-1.413T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.588 1.413T20 20H4Zm8-7l8-5V6l-8 5l-8-5v2l8 5Z" />
-                            </svg>support@logistos.in</small>
+                            </svg>support@logistos.com</small>
                         </div>
                     </div>
                     <div className="col-lg-6 text-center text-lg-right">
@@ -43,7 +43,7 @@ const Header = ({ active }) => {
                             <a  title="Follow on Instagram" className="text-white px-2" target="_blank" href="https://www.instagram.com/logistos.in">
                                 <i className="fab fa-instagram"></i>
                             </a>
-                            <a  title="Connect on Whatsapp" className="text-white pl-2" target="_blank" href="https://api.whatsapp.com/send?phone=9560099686">
+                            <a  title="Connect on Whatsapp" className="text-white pl-2" target="_blank" href="https://api.whatsapp.com/send?phone=7090500400">
                                 <i className="fab fa-whatsapp"></i>
                             </a>
                         </div>
@@ -99,9 +99,8 @@ const Header = ({ active }) => {
                             <div className="nav-item dropdown">
                                 <span className={`nav-item nav-link dropdown-toggle ${active == 6 ? 'active' : ''}`} data-toggle="dropdown">Login</span>
                                 <div className="dropdown-menu rounded-0 m-0">
-                                    <Link to="/signin"> <span className="dropdown-item">Login</span></Link>
-                                    <Link to="/signup"> <span className="dropdown-item">Register</span></Link>
-                                    <Link to="/admin"> <span className="dropdown-item">Admin</span></Link>
+                                    <a href="https://app.logistos.in/"> <span className="dropdown-item">Login</span></a>
+                                    <a href="https://app.logistos.in/signup"> <span className="dropdown-item">Register</span></a>
 
 
                                 </div>

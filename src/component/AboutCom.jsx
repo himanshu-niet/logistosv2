@@ -67,7 +67,7 @@ loop:true,
   {/* About End */}
 
 
-  <div className="container-fluid bg-secondary my-5">
+  <div className="container-fluid bg-secondary my-5 pb-4">
   <div className="container">
     <div className="row align-items-center">
       <div className="col-lg-5">
@@ -77,7 +77,7 @@ loop:true,
       <h1 className="mt-2">          
 Ashutosh Mohapatra</h1>
         <h6 className="text-primary text-uppercase font-weight-bold mb-4">   
-        Founder & CEO
+        Founder & Advisor
         </h6>
         
 
@@ -114,168 +114,45 @@ Ashutosh Mohapatra</h1>
       </div>
     </div>
   </div>
-</div>
 
+  <hr/>
 
-
-<div className="py-5 team3 bg-light">
-  <div className="container">
-    <div className="row justify-content-center mb-4">
-    <div className="col-md-12 text-center">
-        
-        <h1 className="text-dark mb-3 text-uppercase font-weight-bold">
-        Experienced &amp; Professional Team
-              </h1>
-        <h6 className="text-primary mb-3">
-          You can relay on our amazing features list and also our customer
-          services will be great experience for you without doubt and in no-time
-        </h6>
-      </div>
+  <div className="container mt-5">
+  <div className="row">
+    <div className="col-lg-5">
+      <img className="img-fluid w-100" src="img/amit.jpg" alt="" />
     </div>
-    <div className="row text-center">
-      {/* column  */}
-      <div className='col-lg-2'></div>
-      <div className="col-lg-4 mb-4">
-        {/* Row */}
-        <div className="row gap-20">
-          <div className="col-8 col-md-10 pro-pic mx-auto p-12">
-            <img
-              src="img/amit.jpg"
-              alt="wrapkit"
-              className="img-fluid rounded-circle"
-            />
-          </div>
-          <div className="col-md-12 text-center">
-            <div className="pt-2">
-            <h5 className="mt-4 font-weight-bold mb-0 text-dark">Amit Rajput</h5>
-              <h6 className=" mb-3 mt-1 text-primary ">Co- founder & COO</h6>
-              <p>
-              Embark on a journey with a distinguished professional. A commerce graduate and MBA from IIMT, boasting over two decades of expertise in Sales, Distribution, Operations, and Man Management. Having spearheaded endeavors at telecom giants like Airtel, Tata, and Reliance JIO, their unparalleled business acumen stands as an inspiration to all.
-            
-              </p>
-              <ul className="list-inline">
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-facebook" />
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-twitter" />
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-instagram" />
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-behance" />
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        {/* Row */}
-      </div>
+    <div className="col-lg-7 py-5 py-lg-0">
+    <h1 className="mt-2">   Amit Rajput</h1>
+      <h6 className="text-primary text-uppercase font-weight-bold mb-4">   
+      Co-Founder & COO
+      </h6>
       
-      {/* <div className="col-lg-4 mb-4">
-     
-        <div className="row">
-          <div className="col-8 col-md-10 pro-pic mx-auto">
-            <img
-              src="img/user9.png"
-              alt="wrapkit"
-              className="img-fluid rounded-circle"
-            />
-          </div>
-          <div className="col-md-12 text-center">
-            <div className="pt-2">
-            <h5 className="mt-4 font-weight-bold mb-0 text-dark">Jitumani Bhuyan</h5>
-              <h6 className=" mb-3 mt-1 text-primary ">Director- National Head for Business devlopment</h6>
+
+      
+      
+
+      <ul className="list-inline"  style={{display:'flex', flexDirection:'column',gap:'10px'}}>
+        <li  style={{ display: 'flex' }}>
+        <i className="far fa-dot-circle text-primary mr-3 mt-2" />
+          <p >
+           Embark on a journey with a distinguished professional. A commerce graduate and MBA from IIMT, boasting over two decades of expertise in Sales, Distribution, Operations, and Man Management. Having spearheaded endeavors at telecom giants like Airtel, Tata, and Reliance JIO, their unparalleled business acumen stands as an inspiration to all.
+          </p>
+        </li>
        
-              <p>
-              Boasting a remarkable 14-year journey in business development, sales, and marketing, their prowess shines in Logistics, E-Commerce, and Telecommunications. They've contributed their expertise to renowned companies such as Tata Sky, Realme, Lava Mobile, Rivigo, and Delhivery Ltd, leaving an indelible mark.
-              </p>
-              <ul className="list-inline">
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-facebook" />
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-twitter" />
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-instagram" />
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-behance" />
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-     
-      </div> */}
+      </ul>
       
-      <div className="col-lg-4 mb-4">
-        {/* Row */}
-        <div className="row">
-          <div className="col-8 col-md-10 pro-pic mx-auto">
-            <img
-              src="img/user5.png"
-              alt="wrapkit"
-              className="img-fluid rounded-circle"
-            />
-          </div>
-          <div className="col-md-12 text-center">
-            <div className="pt-2">
-          
-              <h5 className="mt-4 font-weight-bold mb-0 text-dark">Sudheesh Asthana</h5>
-              <h6 className="mb-3 mt-1 text-primary">National Sales Director</h6>
-              <p>
-              A 30-year veteran in Indian Logistics. Postgraduate M.A. and Sales & Marketing Graduate. Led as National Head (Transportation), Regional Sales/Operations Manager & Sales Head at Gati Ltd., Future Supply Chains, V Trans India, Patanjali Parivahan Pvt Ltd, and V Xpress.
-              </p>
-              <ul className="list-inline">
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-facebook" />
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-twitter" />
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-instagram" />
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a href="#" className="text-decoration-none d-block px-1">
-                    <i className="icon-social-behance" />
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        {/* Row */}
-      </div>
-      {/* column  */}
     </div>
   </div>
 </div>
+</div>
+
+
+
+
+
+
+
 
 
 <Vision/>

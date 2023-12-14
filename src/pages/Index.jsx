@@ -48,7 +48,7 @@ const Index = () => {
                   placeholder="Tracking Id"
                 />
                 <div className="input-group-append">
-                  <button className="btn btn-primary px-3">Track &amp; Trace</button>
+                <a href="https://app.logistos.in/track-order" className="btn btn-primary px-3 py-3">  Track &amp; Trace</a>
                 </div>
               </div>
             </div>
