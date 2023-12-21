@@ -51,10 +51,10 @@ const Index = () => {
               </div>
             </div>
 
-            <Galary/>
+           
            
             </div>
-           <div className="col-12 col-md-6 col-lg-5">
+           <div className="col-12 col-md-6 col-lg-5 pt-10">
            <div className="booking-form">
   <form>
     <div className="form-group">
@@ -120,6 +120,22 @@ const Index = () => {
           </div>
         </div>
         {/* Header End */}
+
+
+
+<div className="container-fluid py-5">
+<div className="container">
+  <div className="text-center ">
+    <h1 className="text-dark text-uppercase font-weight-bold my-2">
+    Trusted Collaborators
+
+    </h1>
+  </div>
+  <Galary/>
+</div>
+</div>
+
+
         {/* About Start */}
         <div className="container-fluid py-5">
           <div className="container">
