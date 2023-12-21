@@ -43,69 +43,69 @@ loop:true,
         
         
         <div className="">
-        <img src="/logos/expressbees-01.png"/>
+        <img src="./logos/expressbees-01.png"/>
         </div>
 
         <div className="">
      
-        <img src="/logos/oxygen.png"/>
+        <img src="./logos/oxygen.png"/>
         </div>
 
         <div className="">
-        <img src="/logos/ekart-01.png"/>
+        <img src="./logos/ekart-01.png"/>
         </div>
 
         <div className="">
-        <img src="/logos/Rivigo by mahindra-01.png"/>
-
-        </div>
-
-
-        <div className="">
-        <img src="/logos/blue dart-01.png"/>
+        <img src="./logos/Rivigo by mahindra-01.png"/>
 
         </div>
 
 
         <div className="">
-        <img src="/logos/Gati.png"/>
+        <img src="./logos/blue dart-01.png"/>
 
         </div>
 
 
         <div className="">
-        <img src="/logos/Delhivery.png"/>
+        <img src="./logos/Gati.png"/>
+
+        </div>
+
+
+        <div className="">
+        <img src="./logos/Delhivery.png"/>
         
         </div>
 
 
 
         <div className="">
-        <img src="/logos/DTDC-01.png"/>
+        <img src="./logos/DTDC-01.png"/>
 
         </div>
 
 
         <div className="">
-        <img src="/logos/logistics.png"/>
+        <img src="./logos/logistics.png"/>
 
         </div>
 
 
         <div className="">
-        <img src="/logos/India_Post.png"/>
+        <img src="./logos/India_Post.png"/>
 
         </div>
 
 
         <div className="">
-        <img src="/logos/Amazon.png"/>
+        <img src="./logos/Amazon.png"/>
 
         </div>
 
 
         <div className="">
-        <img src="/logos/ecom express-01.png"/>
+        <img src="./logos/ecom express-01.png"/>
 
         </div>
         </OwlCarousel>
